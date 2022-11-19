@@ -1,5 +1,19 @@
 # Tic-tac-toe-asm
 a short game using assembly language
+ ._________________.
+ /|     |     |     |
+ ||  1  |  2  |  3  |
+ ||_____|_____|_____|
+ ||     |     |     |
+ ||  4  |  5  |  6  |
+ ||_____|_____|_____|
+ ||     |     |     |
+ ||  7  |  8  |  9  |
+ ||.____|_____|_____|.
+ |/_________________/
+Welcome to TicTacToe enter number as above to play the game
+Enter Input From 1 to 9 (O):
+
 # The Algorithms:
 Function name `DrawInterfaceWhenYouStart` to illustrate the friendly user interface, also the number from 1 to 9 to know exactly where player can play the game.
   
